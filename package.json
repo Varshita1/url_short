@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.2",
+    "short-id": "^0.1.0-1",
+    "short-id-gen": "^1.1.2",
+    "shortid-fix": "^2.2.15"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "url_shortener",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
